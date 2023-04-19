@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @Kimtron
-- 👀 I’m interested in hobby coding, hobby pixel art, hobby web design
+
